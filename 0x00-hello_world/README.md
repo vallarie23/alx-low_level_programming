@@ -1,1 +1,1 @@
-0x00. C - Hello, World readme file
+0x00-hello_world readme file
